@@ -1,0 +1,20 @@
+.catitems{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+
+.catitems .card img{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+}
+.list{
+    float: left;
+    gap: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+}

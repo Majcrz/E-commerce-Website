@@ -1,0 +1,17 @@
+.addbutton{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.addbutton button{
+    width: 100px;
+
+}
+
+.categorymap{
+
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+   }

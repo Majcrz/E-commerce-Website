@@ -1,0 +1,62 @@
+.main{
+    margin-top: 100px;
+    margin-left: 50px;
+ 
+    width: 800px;
+    height: 500px;
+    border: solid 3px rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.main:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
+.cartbuy button{
+    height: 70px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.cartbuy button span{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.fulldetails .fulldetails1 {
+    margin-left: 1000px;
+    margin-top: -420px;
+    font-size: 30px;
+}
+.fulldetails .proprice{
+    font-weight: bolder;
+    margin-top: 25px;
+    font-size: 40px;
+}
+
+.fulldetails img{
+    margin-left: 300px;
+    margin-top: -500px;
+    height: 420px;
+    width: 250px;
+
+}
+ 
+.quantity{
+    margin-left: 1000px;
+    margin-top: -150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.quantity input{
+    height: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.prodesc{
+    width: 600px;
+    text-align: justify;
+}
+

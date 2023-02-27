@@ -1,0 +1,48 @@
+.background_image{
+    /* background-color: rgb(255, 255, 255); */
+    opacity: 0.9;
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    color: aliceblue;
+    
+}
+.container123{
+    margin-left: 400px;
+    display: inline-flex;
+    gap: 200px;
+    
+}
+
+.button1 img{
+    height: 80px;
+    width: 80px;
+    margin-top: 15px;
+    
+}
+
+.button2 :hover{
+  color: rgb(60, 166, 166);
+  cursor: pointer;
+  
+}
+
+
+
+.video video{
+  position: absolute;
+  z-index: -1;
+  width: 2025px;
+  filter: blur(5px);
+  margin-top: 0px;
+  object-fit: cover;
+  
+
+}
+
+.slider1  {
+  height: 500px;
+  width: 100px;
+  border-radius: 30px;
+
+}

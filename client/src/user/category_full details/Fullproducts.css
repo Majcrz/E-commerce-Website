@@ -1,0 +1,57 @@
+.background_image1{
+    background-color: rgb(255, 255, 255);
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.container1{
+    margin-left: 300px;
+    display: inline-flex;
+    gap: 200px;
+    
+}
+.button11 img{
+    height: 80px;
+    width: 80px;
+    margin-top: 15px;
+    
+}
+.button21 :hover{
+    color: rgb(60, 166, 86);
+    cursor: pointer;
+    
+  }
+
+.mobiles{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 100px;
+    color: cadetblue;
+    text-decoration: double;
+}  
+
+.catitems{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.catitems .card img{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+}
+.list{
+    float: left;
+    gap: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+}
+
+
+.man:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}

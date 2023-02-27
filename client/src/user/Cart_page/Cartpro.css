@@ -1,0 +1,122 @@
+.main1{
+    margin-top: 100px;
+    margin-left: 50px;
+   
+    width: 800px;
+    height: 500px;
+    border: solid 3px rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.main1:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
+.cartbuy1 button{
+    height: 70px;
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.cartbuy1 button span{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.fulldetails1 .fulldetails1 {
+    margin-left: 1000px;
+    margin-top: -620px;
+    font-size: 30px;
+}
+.fulldetails1 .proprice{
+    font-weight: bolder;
+    margin-top: 25px;
+    font-size: 40px;
+}
+
+.fulldetails1 img{
+    margin-left: 300px;
+    margin-top: -800px;
+    height: 420px;
+    width: 250px;
+
+}
+
+.main2{
+  
+}
+
+.total{
+   
+    width:600px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+
+
+.prodesc1{
+    width: 600px;
+    text-align: justify;
+}
+
+.button123{
+    margin-left: 1800px;
+    margin-top: 80px;
+    position: fixed;
+    
+}
+
+
+.button123:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.button1234{
+    margin-left: 1800px;
+    margin-top: 260px;
+    position: fixed;
+   
+
+}
+
+.button1234 span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button1234:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
+.trash i:hover{
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+    /* filter: blur(1px); */
+    border-radius: 5px;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.emptycart{
+    margin-left: 650px;
+    margin-top: 100px;
+}
+.emptycarttext{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 0px;
+    position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  
+ 
+}
